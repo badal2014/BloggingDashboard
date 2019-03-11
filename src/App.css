@@ -1,3 +1,5 @@
+@import 'dashboard.scss';
+@import './style/helper.scss';
 .App {
   text-align: center;
 }

@@ -1,0 +1,36 @@
+.background-head{
+    background: url(../src/assets/welcome-bg.png);
+    height: 110vh;
+    width: 100%;
+    display: inline-block;
+    background-size: cover;
+}
+.menuItems ul li{
+    text-decoration: none;
+    display: inline-block;
+}
+.menuItems{
+    text-align: left;
+}
+.menuItems ul li a{
+    font-size: 16px;
+    color: #fff;
+    font-family: 'Cabin', sans-serif;
+    margin-right: 30px;
+}
+.dashHeader{
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+.headerLeftContant h1{
+    font-size: 50px;
+    color: #fff;
+    font-family: 'Cabin', sans-serif;
+}
+.headerLeftContant p{
+    color: #fff;
+}
+.headerLeftContant{
+    padding-top:150px;
+}
